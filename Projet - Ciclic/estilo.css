@@ -1,0 +1,27 @@
+.cabecalho{
+	margin: 2.5px;
+	padding: 2.5px;
+	color: orange;
+	background-color: rebeccapurple;
+	font: bold;
+	font-size: 50px;
+	font-family: "Times New Roman", Times, serif;
+}
+.corpo{
+	margin: 2.5px;
+	padding: 5px;
+	color: orange;
+	background-color: mediumpurple;
+	font: bold;
+	font-family: "Times New Roman", Times, serif;
+}
+.rodape{
+	margin: 2.5px;
+	padding: 2.5px;
+	font: bold;
+	font-family: "Times New Roman", Times, serif;
+}
+.botao{
+	color: white;
+	background-color: purple;
+}
